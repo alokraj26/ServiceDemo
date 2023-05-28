@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+    <string name="start_bindService">Start bind Service</string>
+    <string name="update_bind_service">Update Bind Service</string>
+    <string name="stop_bind_service">Stop Bind Service</string>
+</resources>
